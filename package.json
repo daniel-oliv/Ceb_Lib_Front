@@ -1,0 +1,19 @@
+{
+  "name": "ceb_lib_front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-oliv/Ceb_Lib_Front.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-oliv/Ceb_Lib_Front/issues"
+  },
+  "homepage": "https://github.com/daniel-oliv/Ceb_Lib_Front#readme"
+}
